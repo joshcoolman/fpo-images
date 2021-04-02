@@ -1,2 +1,4 @@
-const avatars = require('./images')
-module.exports = avatars;
+import avatars from "./images"
+export default {
+    avatars
+}
