@@ -1,4 +1,4 @@
-const avatars = [
+const image_avatars = [
     "https://firebasestorage.googleapis.com/v0/b/images-aae96.appspot.com/o/avatars%2Favatar-19.png?alt=media&token=0a571e4c-37cd-45a3-ac20-a53fcf3b7482",
     "https://firebasestorage.googleapis.com/v0/b/images-aae96.appspot.com/o/avatars%2Favatar-2.png?alt=media&token=d07e1a07-14fc-4a62-be66-788a5ac0bb0a",
     "https://firebasestorage.googleapis.com/v0/b/images-aae96.appspot.com/o/avatars%2Favatar-20.png?alt=media&token=6c8dc487-d3b7-4193-b3f6-9b800cbd3f53",
@@ -43,4 +43,7 @@ const avatars = [
     "https://firebasestorage.googleapis.com/v0/b/images-aae96.appspot.com/o/avatars%2Favatar-18.png?alt=media&token=3b084017-4d7a-4d1c-b390-8445bdac4451",
 ]
 
-module.exports = avatars
+export {
+    image_avatars
+} 
+    
