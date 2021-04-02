@@ -1,4 +1,2 @@
 import avatars from "./images"
-export default {
-    avatars
-}
+module.exports = avatars;
