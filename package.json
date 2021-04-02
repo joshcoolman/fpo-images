@@ -1,6 +1,6 @@
 {
     "name": "@uxui-guy/fpo-images",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "description": "Just some images I can use to mock stuff up. For personal use only.",
     "main": "dist/index.js",
     "scripts": {
