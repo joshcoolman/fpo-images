@@ -43,4 +43,4 @@ const avatars = [
     "https://firebasestorage.googleapis.com/v0/b/images-aae96.appspot.com/o/avatars%2Favatar-18.png?alt=media&token=3b084017-4d7a-4d1c-b390-8445bdac4451",
 ]
 
-export default avatars
+module.exports = avatars
