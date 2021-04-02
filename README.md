@@ -6,6 +6,7 @@
 ### Usage
 
 ```JSX
+import React, { useEffect } from 'react';
 import { avatars } from "@uxui-guy/fpo-images"
 function App() {
   useEffect(() => {
