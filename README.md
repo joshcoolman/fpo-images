@@ -1,5 +1,5 @@
 # For Position Only - Images
-### Some utility resouces for bringing temp images into personal UX projects when in development (to be honest this is just a personal stab at creating an npm module). For fun and for free. :rocket: 
+### Some utility resouces for bringing temp images into my personal UX projects when in development. For fun and for free. :rocket: 
 
 ### Usage
 
