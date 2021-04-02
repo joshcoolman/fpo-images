@@ -1,2 +1,5 @@
 import avatars from "./images"
-module.exports = avatars;
+module.exports = {
+    avatars,
+    default: avatars,
+}
