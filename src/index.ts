@@ -1,5 +1,5 @@
-const avatars = require("./images");
+import { image_avatars} from "./images";
 module.exports = {
-    avatars,
-    default: avatars,
+    avatars : image_avatars,
+    default: image_avatars,
 }
