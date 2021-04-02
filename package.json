@@ -1,0 +1,20 @@
+{
+    "name": "@uxui-guy/fpo-images",
+    "version": "1.0.0",
+    "description": "Just some images I can use to mock stuff up. For personal use only.",
+    "main": "src/index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/joshcoolman/fpo-images.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/joshcoolman/fpo-images/issues"
+    },
+    "homepage": "https://github.com/joshcoolman/fpo-images#readme"
+}
